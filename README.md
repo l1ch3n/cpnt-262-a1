@@ -21,4 +21,4 @@ https://codepen.io/inescodes/pen/PoxMyvX -  cards
  # bugs and solutions
 
  1) nav bar and cards using the same grid - solution TBD
- 2) goodies button wipes out other cards but doesn't render
+ 2) goodies button wipes out other cards but doesn't render - https://codepen.io/marcobiedermann/pen/ExvvyLQ
